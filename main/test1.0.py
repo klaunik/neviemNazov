@@ -1,4 +1,5 @@
 import time
 
 print ('Current time: ')
-print (time.time())
+currentTime = time.time()
+print (currentTime)
